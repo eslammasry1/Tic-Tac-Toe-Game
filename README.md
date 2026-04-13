@@ -43,8 +43,9 @@ This project focuses on clean code structure, game logic handling, and user-frie
 
 ## 📷 Screenshots
 
-> 🔹 Add your screenshots here
-> 🔹 You can drag & drop images in GitHub
+<img width="1272" height="863" alt="XO_SCR2" src="https://github.com/user-attachments/assets/80321fc3-6c4e-4764-bf2f-b185e89106f7" />
+<img width="1086" height="751" alt="XO_SCR1" src="https://github.com/user-attachments/assets/c7c71e3a-6be0-4965-a346-a548c8c26bc9" />
+
 
 ---
 
